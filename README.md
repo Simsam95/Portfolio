@@ -14,14 +14,14 @@ Please have Google Chrome installed on your machine. To download, visit https://
 
 ## Deployed Link
 
-* [See Live Site](https://dfel08.github.io/Responsive-Portfolio/)
+* [See Live Site](https://Simsam95.github.io/Responsive-Portfolio/)
 
 
 ## Authors
 
-* **DAN FELLOWS**
+* **Sim Dhaliwal**
 
-- [Link to Portfolio Site](https://dfel08.github.io/Responsive-Portfolio/)
+- [Link to Portfolio Site](https://Simsam95.github.io/Responsive-Portfolio/)
 - [Link to Github](https://github.com/simsam95)
 - [Link to LinkedIn](https://www.linkedin.com/in/Simsam95/)
 
